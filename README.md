@@ -1,6 +1,6 @@
 # Unity3D Rail Editor
 
-Create, place and edit dynamic mesh colliders for grind-able rails in extreme sports games like [Tony Hawk's Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater) or [Jet Set Radio](https://en.wikipedia.org/wiki/Jet_Set_Radio).
+Create, place and edit grind-able rails for extreme sports games like [Tony Hawk's Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater) or [Jet Set Radio](https://en.wikipedia.org/wiki/Jet_Set_Radio).
 
 ## Usage:
 
